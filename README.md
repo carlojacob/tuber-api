@@ -14,7 +14,7 @@ The deployed sites for this project are located here:
 
 [Tuber Client](https://carlojacob.github.io/tuber)
 
-[Tuber API](https://tuber-ccjwdi.herokuapp.com/)
+[Tuber API](https://tuber-api.onrender.com)
 
 ### What is Tuber
 **Noun: Avid YouTube user** | *NOT a potato*
@@ -73,10 +73,11 @@ The following technologies were used to develop this application:
 9. Atom.
 10. Git.
 11. Github.
-12. Heroku.
+12. Heroku (removed 03.2024).
 13. npm.
 14. Curl.
 15. AJAX.
+16. Render.
 
 ### Development Process and Problem-Solving
 Development for this application started by building an initial project scope, which was modified as necessary during development:
